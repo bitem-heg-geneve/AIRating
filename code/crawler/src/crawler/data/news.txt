@@ -1,0 +1,24 @@
+10001	Reuters	http://www.reuters.com
+10002	Guardian	https://www.theguardian.com/
+#10003	Forbes	https://www.forbes.com
+#10004	Bloomberg	www.bloomberg.com
+#10005	The Conversation	https://theconversation.com/
+#10006	New York Times	https://www.nytimes.com/
+#10007	Responsability reports	https://www.responsibilityreports.com/
+#10008	SASB reports	https://www.sasb.org/company-use/sasb-reporters/
+#10009	CDP	https://www.cdp.net/en/
+#10010	Macrotrends	https://www.macrotrends.net/countries/topic-overview
+#10011	BusinessInsider	https://www.businessinsider.com/international?r=US&IR=T
+#10012	BBC	https://www.bbc.com/news/world
+#10013	Fortune	https://fortune.com/
+#10014	Financial Time	https://www.ft.com/
+#10015	Yahoo Finance	https://finance.yahoo.com/
+#10016	PR Newswire	https://www.prnewswire.com/
+#10017	Investopedia	https://www.investopedia.com/
+#10018	CNBC	https://www.cnbc.com/world
+#10019	CSI Market	https://csimarket.com/
+#10020	Businesswire	https://www.businesswire.com/
+#10021	Salary Explorer	http://www.salaryexplorer.com/
+#10022	Globenewswire	https://www.globenewswire.com/
+#10023	Trading Economics	https://tradingeconomics.com/
+#10024	Market screener	https://www.marketscreener.com/
