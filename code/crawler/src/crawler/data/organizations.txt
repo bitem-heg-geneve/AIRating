@@ -1,0 +1,56 @@
+20001	International Labour Organization	https://www.ilo.org/
+20002	World Health Organization	https://www.who.int/
+#20003	GreenPeace	https://www.greenpeace.org
+#20004	Amnesty	https://www.amnesty.org
+#20005	National Geographic	www.nationalgeographic.com
+#20006	EPA	www.epa.gov
+#20007	Our world in data	https://ourworldindata.org/
+#20008	World bank	https://www.worldbank.org/en/home
+#20009	OECD	https://data.oecd.org/
+#20010	Statista	https://www.statista.com/
+#20011	UN Statistics Division	https://unstats.un.org/home/
+#20012	UN SDG	https://sdgs.un.org/goals
+#20013	SDG tracker	https://sdg-tracker.org/
+#20014	World Economic Forum	https://www.weforum.org/
+#20015	McKinsey	https://www.mckinsey.com/
+#20016	NASA	https://climate.nasa.gov/vital-signs/global-temperature/
+#20017	The Intergovernmental Panel on Climate Change	https://www.ipcc.ch/
+#20018	European Environmental Agency	https://www.eea.europa.eu/
+#20019	International Energy Agency	https://www.iea.org/
+#20020	Carbonbrief	https://www.carbonbrief.org/
+#20021	World Resource Institute	https://www.wri.org/
+#20022	Break from free plastic	https://www.breakfreefromplastic.org/
+#20023	Transport & Environment	https://www.transportenvironment.org/
+#20024	Agency for Toxic Substances and Disease Registry	https://www.atsdr.cdc.gov/
+#20025	Food and Agriculture Organization	https://www.fao.org/home/en
+#20026	Glassdoor	https://fr.glassdoor.ch/
+#20027	Comparably	https://www.comparably.com/
+#20028	Equileap	https://equileap.com/
+#20029	Catalyst	https://www.catalyst.org/research/
+#20030	Human Rights Watch	https://www.hrw.org/
+#20031	Corporate benchmark	https://www.worldbenchmarkingalliance.org/corporate-human-rights-benchmark/
+#20032	WWF	https://www.worldwildlife.org/
+#20033	Nature Conservancy	https://www.nature.org/en-us/
+#20034	Client Earth	https://www.clientearth.org/
+#20035	Rainforest Action Network	https://www.ran.org/
+#20036	Chain Reaction Research	https://chainreactionresearch.com/
+#20037	Urgewald	https://www.urgewald.org/english
+#20038	BankTrack	https://www.banktrack.org/
+#20039	Facing Finance	https://www.facing-finance.org/en/
+#20040	Reclaim Finance	https://reclaimfinance.org/
+#20041	Coalexit.org	https://www.coalexit.org/
+#20042	Forests&Finance	https://forestsandfinance.org/data/data-quick-view/
+#20043	Good Jobs First	https://www.goodjobsfirst.org/violation-tracker
+#20044	Craft	https://craft.co/
+#20045	Zippia	https://www.zippia.com/
+#20046	DNB	https://www.dnb.com/
+#20047	Payscale	https://www.payscale.com/
+#20048	Comparably	https://www.comparably.com/
+#20049	Annual reports	https://www.annualreports.com/
+#20050	Zoominfo	https://www.zoominfo.com/
+#20051	Indeed	https://ch.indeed.com/
+#20052	CDP	https://www.cdp.net/en
+#20053	World Resources Institute	https://www.wri.org/
+#20054	Coal Exit	https://www.coalexit.org/
+#20055	US SEC	https://www.sec.gov/
+#20056	US EIA	https://www.eia.gov/
