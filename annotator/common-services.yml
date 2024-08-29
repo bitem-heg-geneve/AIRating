@@ -1,0 +1,41 @@
+version: "3.9"
+services:
+  mongodb:
+    container_name: mongodb
+    image: mongo:latest
+    command: --wiredTigerCacheSizeGB 2
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./mongodb-data:/data/db
+    env_file:
+      - ./images/env
+    restart: always
+ 
+  redis:
+    container_name: redis
+    image: redis:alpine
+    restart: always
+
+  flower:
+    container_name: flower
+    image: mher/flower:latest
+    command: celery flower
+    env_file:
+      - ./images/env
+    ports:
+      - 5555:5555
+    restart: always
+
+  worker:
+    build:
+      context: .
+      dockerfile: ./images/pytorch/Dockerfile
+    volumes:
+      - ./service/app:/app
+      - ./resources:/resources
+    depends_on:
+      - mongodb
+      - redis
+    env_file:
+      - ./images/env
