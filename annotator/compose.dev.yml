@@ -1,0 +1,74 @@
+version: '3.9'
+
+services:
+  mongodb:
+    extends:
+      file: common-services.yml
+      service: mongodb
+    deploy:
+      resources:
+          reservations:
+            cpus: '0.1'
+            memory: '3g'
+  redis:
+    extends:
+      file: common-services.yml
+      service: redis
+  flower:
+    extends:
+      file: common-services.yml
+      service: flower
+  api:
+    extends:
+      file: common-services.yml
+      service: worker
+    ports:
+      - "8001:8001"
+      - "5678:5678" # debug
+    env_file:
+      - ./images/env
+    # command: /app/run.sh
+    command: python -m debugpy --listen 0.0.0.0:5678 -m uvicorn app.main:app --host 0.0.0.0 --port 8001 --reload
+    tty: true
+
+  ingress: #ingress worker
+    extends:
+      file: common-services.yml
+      service: worker
+    ports:
+      - 5671:5671 #debug
+    env_file:
+      - ./images/env
+    # environment:
+    # - LOAD_TEXT=TRUE
+    command: watchmedo auto-restart -d "/app" --recursive -p '*.py' -- python -m debugpy --listen 0.0.0.0:5671 -m celery -A app.main.celery worker --loglevel=info -Q default,ingress --hostname=ingress@%h --concurrency=10
+    
+  
+
+
+  infer: # inference worker with GPU support
+    extends:
+      file: common-services.yml
+      service: worker
+    ports:
+      - 5672:5672 #debug
+    env_file:
+      - ./images/env
+    command: watchmedo auto-restart -d "/app" --recursive -p '*.py' -- python -m debugpy --listen 0.0.0.0:5672 -m celery -A app.main.celery worker --loglevel=info -Q infer --hostname=infer@%h --pool=solo
+
+    # ulimits:
+    #   stack: 67108864
+    #   memlock: -1
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]
+    #   replicas: 1
+    deploy:
+      replicas: 1
+# volumes:
+# mongodb-data:
+# ./mongodb-data:mongodb-data:
