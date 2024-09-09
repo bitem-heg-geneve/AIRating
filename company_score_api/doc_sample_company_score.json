@@ -1,0 +1,161 @@
+{
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/california/field_geographic_locations/massachusetts/subject/emergency-response/subject/radiation/year/2017/year/2018": {
+        "APA": 0.25692352652549744,
+        "Brown-Forman": 0.060495633631944656,
+        "News Corporation": 0.04361910745501518,
+        "Whitbread": 0.02225913293659687
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/connecticut/field_geographic_locations/rhode-island/field_press_office/headquarters/field_press_office/region-01/subject/awards-and-recognition/subject/hazardous-waste": {
+        "APA": 0.23194484412670135,
+        "National Grid": 0.03333333507180214,
+        "Whitbread": 0.018549276515841484,
+        "News Corporation": 0.018469002097845078,
+        "Veolia Environnement": 0.01819545589387417,
+        "Canadian National": 0.01772884838283062
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/florida/field_geographic_locations/us-virgin-islands/subject/other-news-topics/subject/air?filter=&amp%3Bpage=3": {
+        "APA": 0.30817845463752747,
+        "Brown-Forman": 0.03055335208773613,
+        "Whitbread": 0.016862979158759117,
+        "News Corporation": 0.016790002584457397,
+        "Next": 0.015897490084171295
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/alabama/field_geographic_locations/west-virginia/field_press_office/region-04/year/2017/year/2019": {
+        "APA": 0.26762866973876953,
+        "News Corporation": 0.027261942625045776,
+        "Whitbread": 0.0139119578525424,
+        "UCB": 0.013711092993617058,
+        "Next": 0.013115430250763893,
+        "Estée Lauder Companies": 0.01304851658642292,
+        "Southern Company": 0.013005917891860008,
+        "Brown-Forman": 0.012603257782757282
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/arkansas/field_geographic_locations/vermont/subject/emergency-response/subject/pesticides-and-toxic-chemicals?page=1": {
+        "APA": 0.23417508602142334,
+        "Whitbread": 0.017389947548508644,
+        "UBS": 0.017365943640470505,
+        "News Corporation": 0.017314689233899117
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/connecticut/field_geographic_locations/american-samoa/field_press_office/region-01/subject/partnerships-and-stewardship/subject/administrator/year/2018": {
+        "APA": 0.27754083275794983,
+        "Next": 0.03886053338646889,
+        "Whitbread": 0.020610308274626732,
+        "News Corporation": 0.020521113649010658,
+        "Brown-Forman": 0.018671492114663124
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/alabama/field_geographic_locations/north-carolina/field_press_office/headquarters/field_press_office/region-04/subject/compliance-and-enforcement?filter=&amp%3Bamp%3Bpage=1": {
+        "APA": 0.12975935637950897,
+        "Edison International": 0.038145605474710464,
+        "Mondelez International": 0.03587888181209564,
+        "Baxter International": 0.0345449224114418,
+        "Croda International": 0.03439854457974434,
+        "News Corporation": 0.03304477781057358,
+        "International Airlines": 0.03270631656050682,
+        "Babcock International": 0.0315115787088871,
+        "Marriott International": 0.031108291819691658,
+        "Philip Morris International": 0.030899452045559883
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/arkansas/field_geographic_locations/rhode-island/field_press_office/region-01/field_press_office/region-06/subject/other-news-topics/subject/pesticides-and-toxic-chemicals": {
+        "APA": 0.2935282289981842,
+        "Whitbread": 0.017950912937521935,
+        "News Corporation": 0.01787322759628296
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/connecticut/field_geographic_locations/north-carolina/field_press_office/region-01/subject/trash-and-recycling/subject/water/year/2018?filter=": {
+        "APA": 0.28674501180648804,
+        "Canadian National": 0.02527712844312191,
+        "National Grid": 0.023796727880835533,
+        "Whitbread": 0.019874226301908493,
+        "News Corporation": 0.019788216799497604,
+        "Waters": 0.018678322434425354,
+        "Thales": 0.01817733608186245
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/georgia/field_geographic_locations/louisiana/field_press_office/region-04/field_press_office/region-05/subject/trash-and-recycling?filter=&amp%3Bpage=6": {
+        "APA": 0.2559926509857178,
+        "News Corporation": 0.047412075102329254,
+        "Whitbread": 0.024194709956645966
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/alaska/field_geographic_locations/vermont/field_press_office/region-10/subject/energy/subject/other-news-topics/year/2017": {
+        "APA": 0.2293960005044937,
+        "News Corporation": 0.03894563391804695,
+        "CMS Energy": 0.025082925334572792,
+        "Oge Energy": 0.02479463443160057,
+        "Wec Energy": 0.02473173476755619,
+        "AGL Energy": 0.024151623249053955,
+        "Dte Energy": 0.023309102281928062,
+        "Duke Energy": 0.02326684631407261,
+        "Origin Energy": 0.023164451122283936,
+        "Contact Energy": 0.022555122151970863
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/colorado/field_geographic_locations/massachusetts/field_press_office/region-01/field_press_office/region-09/subject/research/subject/superfund-and-brownfields": {
+        "APA": 0.19328737258911133,
+        "UBS": 0.030872788280248642,
+        "ITC": 0.028376447036862373,
+        "DSM": 0.027968313544988632,
+        "Whitbread": 0.015457730740308762,
+        "News Corporation": 0.015390834771096706,
+        "Calbee": 0.014494276605546474,
+        "Hilton": 0.014161841943860054
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/florida/field_geographic_locations/georgia/field_press_office/region-04/field_press_office/region-10/subject/hazardous-waste/subject/superfund-and-brownfields?filter=&amp%3Bamp%3Bpage=4": {
+        "APA": 0.2762618660926819,
+        "News Corporation": 0.041481900960206985,
+        "VF Corporation": 0.024045096710324287,
+        "APA Corporation": 0.022729625925421715,
+        "British Petroleum": 0.020909124985337257,
+        "Air Products": 0.019148942083120346,
+        "TC Energy Corporation": 0.019047895446419716,
+        "Woodside Petroleum": 0.018340012058615685,
+        "Whitbread": 0.017950912937521935,
+        "Packaging Corporation of America": 0.01760474406182766
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/alabama/field_geographic_locations/colorado/subject/awards-and-recognition/subject/water/year/2017": {
+        "APA": 0.25424724817276,
+        "Whitbread": 0.0278239157050848,
+        "WH": 0.017981942743062973,
+        "CSX": 0.015292130410671234,
+        "CSL": 0.014931145124137402,
+        "News Corporation": 0.013851751573383808
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/arizona/field_geographic_locations/montana/subject/water/year/2017": {
+        "APA": 0.28932827711105347,
+        "NN": 0.018207566812634468,
+        "Northern Trust": 0.015264606103301048,
+        "Whitbread": 0.015039954334497452,
+        "News Corporation": 0.014974866062402725
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/connecticut/field_geographic_locations/massachusetts/field_press_office/region-01/field_press_office/region-08/subject/hazardous-waste/subject/partnerships-and-stewardship/year/2018": {
+        "APA": 0.35068583488464355,
+        "Whitbread": 0.019188906997442245,
+        "News Corporation": 0.01910586468875408,
+        "Estée Lauder Companies": 0.018850548192858696,
+        "Goldman Sachs": 0.017839999869465828,
+        "Comcast": 0.017832450568675995,
+        "Southern Company": 0.017727011814713478,
+        "Compass": 0.017553985118865967,
+        "Sembcorp Industries": 0.01741017773747444
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/florida/field_geographic_locations/west-virginia/field_press_office/region-03/field_press_office/region-04/subject/superfund-and-brownfields/year/2019?filter=&amp%3Bpage=8": {
+        "APA": 0.2230238914489746,
+        "News Corporation": 0.04543657228350639,
+        "Whitbread": 0.023186596110463142
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/alaska/field_press_office/region-01/subject/research/subject/other-news-topics/year/2017/year/2018?filter=&amp%3Bpage=3": {
+        "APA": 0.1712823510169983,
+        "News Corporation": 0.04361910745501518,
+        "Gilead Sciences": 0.02252664603292942,
+        "Whitbread": 0.02225913293659687
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/delaware/field_geographic_locations/utah/subject/air/subject/administrator/year/2019": {
+        "APA": 0.26762866973876953,
+        "News Corporation": 0.03894563391804695,
+        "Whitbread": 0.019874226301908493,
+        "OJI": 0.01892167516052723,
+        "APA Corporation": 0.018369827419519424
+    },
+    "https://www.epa.gov/newsreleases/search/field_geographic_locations/idaho/field_geographic_locations/north-dakota/field_press_office/region-10/subject/underground-storage-tanks/subject/water/year/2017/year/2018": {
+        "APA": 0.1712823510169983,
+        "News Corporation": 0.04361910745501518,
+        "Gilead Sciences": 0.02252664603292942,
+        "Whitbread": 0.02225913293659687
+    }
+}
