@@ -1,0 +1,70 @@
+ID,Name,Short Name,Theme ID,Topic Type ID,Creation Date,Difficulty Level,Modif Date,Calculated Breadth,Delete Date,Creation User ID,Modif User ID,Delete User ID,Is Deleted,Is Freezable,Is Visible,Is Solution
+1,Selling & Marketing Practices,,2273,1.0,,Medium,2022-01-27T13:15:36+01:00,False,,1,2962,,False,True,0,False
+2,Advertising for Tobacco,,2273,,,Medium,2022-12-13T13:00:45+01:00,False,2022-12-13T13:00:45+01:00,1,6139,6139.0,True,True,0,False
+3,Consumer Protection,,2273,,,Medium,2022-01-27T10:19:09+01:00,False,,1,2962,,False,True,0,False
+4,Data Breach,,2268,,,Medium,2022-01-27T10:20:16+01:00,False,,1,2962,,False,True,0,False
+5,Data Privacy & Security,Data Privacy,2268,1.0,,Difficult,2023-01-05T15:54:25+01:00,False,,1,1414,,False,True,1,False
+6,Employee Gender Diversity,Gender Equality,2276,1.0,,Easy,2022-11-03T14:04:33+01:00,False,,1,1414,,False,True,1,False
+7,Bribery,Bribery,2282,1.0,,Medium,2021-11-29T11:11:17+01:00,False,,1,8355,,False,True,1,False
+8,Data Breaches,,2269,,,Medium,2022-01-27T10:20:16+01:00,False,,1,2962,,False,True,0,False
+9,Energy Efficiency,,2263,,,Medium,2022-01-27T10:23:30+01:00,False,,1,2962,,False,True,0,False
+10,Operational Energy Consumption,Energy,2263,2.0,,Medium,2022-01-27T13:13:02+01:00,False,,1,2962,,False,True,0,False
+11,Fuel Efficient Solutions,,2277,2.0,,Medium,2022-10-24T11:12:06+02:00,False,,1,6139,,False,True,0,False
+12,Operational Waste Production,Waste,2265,2.0,,Easy,2023-01-24T12:55:52+01:00,True,,1,209,,False,True,1,False
+13,Ecological Impact of Mining,,2280,,,Medium,2022-01-27T10:20:16+01:00,False,,1,2962,,False,True,0,False
+14,Materials Scarcity,,2280,,,Medium,2022-01-27T10:26:30+01:00,False,,1,2962,,False,True,0,False
+15,Social Impact of Mining,,2280,,,Medium,2022-01-27T10:22:23+01:00,False,,1,2962,,False,True,0,False
+16,Sourcing Impact on Geopolitical Issues,,2280,,,Medium,2022-01-27T10:22:23+01:00,False,,1,2962,,False,True,0,False
+17,Sourcing Impact on Land Use,,2280,,,Medium,2022-01-27T10:22:23+01:00,False,,1,2962,,False,True,0,False
+18,Product Malfunctions,,2271,,,Medium,2022-01-27T10:21:37+01:00,False,,1,2962,,False,True,0,False
+19,Management of Environmental & Social Impacts in the Supply Chain,,2279,,,Medium,2022-01-27T10:26:07+01:00,False,,1,2962,,False,True,0,False
+20,Product Quality & Safety,Quality,2271,1.0,,Medium,2021-11-29T11:11:17+01:00,False,,1,8355,,False,True,1,False
+21,GMO Management,,2279,,,Medium,2022-01-27T10:24:19+01:00,False,,1,2962,,False,True,0,False
+22,GHG Emissions,GHG,2261,2.0,,Easy,2023-01-24T12:57:07+01:00,True,,1,209,,False,True,1,False
+23,Ingredient Sourcing,,2280,,,Medium,2022-01-27T10:24:49+01:00,False,,1,2962,,False,True,0,False
+24,Wastewater,,2264,2.0,,Medium,2022-01-27T13:16:27+01:00,False,,1,2962,,False,True,0,False
+25,Operational Water Consumption,Water,2264,2.0,,Easy,2023-01-24T12:55:20+01:00,True,,1,209,,False,True,1,False
+26,Fair Wages,,2274,,,Medium,2022-01-27T10:24:19+01:00,False,,1,2962,,False,True,0,False
+27,Workforce Diversity & Inclusion,,2275,,,Medium,2022-01-27T10:22:23+01:00,False,,1,2962,,False,True,0,False
+28,Accidents,,2272,,,Medium,2022-12-13T12:59:57+01:00,False,2022-12-13T12:59:57+01:00,1,6139,6139.0,True,True,0,False
+29,Safety Management,,2285,,,Medium,2022-01-27T10:21:37+01:00,False,,1,2962,,False,True,0,False
+30,Air Quality,,2262,,,Medium,2022-12-13T12:58:05+01:00,False,2022-12-13T12:58:05+01:00,1,6139,6139.0,True,True,0,False
+31,Employee Health & Safety,,2275,,,Medium,2022-01-27T10:23:30+01:00,False,,1,2962,,False,True,0,False
+32,Employees Diversity & Inclusion,,2274,,,Medium,2022-01-27T10:23:30+01:00,False,,1,2962,,False,True,0,False
+33,Raw Materials,,2279,,,Medium,2022-01-27T10:21:37+01:00,False,,1,2962,,False,True,0,False
+34,Chain Freight,,2279,,,Medium,2022-01-27T10:18:14+01:00,False,,1,2962,,False,True,0,False
+35,Anti-Competitive Behaviour,Competition,2283,1.0,,Medium,2021-12-23T14:53:10+01:00,False,,1,6139,,False,True,1,False
+36,Energy Source,,2261,,,Medium,2022-01-27T10:23:30+01:00,False,,1,2962,,False,True,0,False
+37,Employees Well-being,,2274,,,Medium,2022-01-27T10:23:30+01:00,False,,1,2962,,False,True,0,False
+38,Environmental & Social Impacts of Ingredients in the Supply Chain,,2279,,,Medium,2022-01-27T10:23:30+01:00,False,,1,2962,,False,True,0,False
+39,Packaging,,2277,,,Medium,2022-12-13T13:04:02+01:00,False,2022-12-13T13:04:02+01:00,1,6139,6139.0,True,True,0,False
+40,Environmental Impact of the Supply Chain,,2279,1.0,,Medium,2022-01-27T13:11:39+01:00,False,,1,2962,,False,True,0,False
+41,Social Impact of the Supply Chain,,2279,,,Medium,2022-01-27T10:22:23+01:00,False,,1,2962,,False,True,0,False
+42,Labor Practices in the Supply Chain,,2274,,,Medium,2022-01-27T10:25:13+01:00,False,,1,2962,,False,True,0,False
+43,Management of Chemicals in Product,,2271,1.0,,Medium,2022-01-27T13:13:02+01:00,False,,1,2962,,False,True,0,False
+44,Environmental Impacts from Material Sourcing,Sourcing,2280,2.0,,Difficult,2022-12-22T14:09:19+01:00,False,,1,6139,,False,True,1,False
+45,Efficient Energy Solutions,,2263,2.0,,Medium,2022-10-24T11:12:45+02:00,False,,1,6139,,False,True,0,False
+46,Materials Recycling & Waste,,2277,2.0,,Medium,2022-01-27T13:13:02+01:00,False,,1,2962,,False,True,0,False
+47,Product End-of-Life Waste,Product Waste,2277,2.0,,Difficult,2023-01-05T15:11:08+01:00,False,,1,1414,,False,True,1,False
+48,Impacts of Investments in the Energy Transition,Investments,2266,2.0,,Difficult,2023-01-05T15:09:54+01:00,False,,1,1414,,False,True,1,False
+49,Investments' Governance Impacts,,2277,2.0,,Medium,2022-01-27T13:13:02+01:00,False,,1,2962,,False,True,0,False
+50,Social Impacts of Investments,,2267,1.0,,Medium,2022-04-13T14:29:11+02:00,False,,1,8355,,False,False,0,False
+51,Systemic Risk Management,,2286,1.0,,Medium,2022-01-27T13:16:45+01:00,False,,1,2962,,False,True,0,False
+52,Transparent Information & Fair Advice for Customers,,2273,,,Medium,2022-01-27T10:22:23+01:00,False,,1,2962,,False,True,0,False
+53,Pricing Strategy,,2283,,,Medium,2022-01-27T10:21:37+01:00,False,,1,2962,,False,True,0,False
+54,Fuel-Efficient Components,,2277,,,Medium,2022-01-27T10:24:19+01:00,False,,1,2962,,False,True,0,False
+55,Parts Weight Reduction,,2277,,,Medium,2022-01-27T10:27:28+01:00,False,,1,2962,,False,True,0,False
+56,Materials Efficiency,,2280,,,Medium,2022-01-27T10:26:30+01:00,False,,1,2962,,False,True,0,False
+57,Safety Enhancement,,2271,,,Medium,2022-01-27T10:21:37+01:00,False,,1,2962,,False,True,0,False
+58,Production Waste Management,,2265,,,Medium,2022-01-27T10:21:37+01:00,False,,1,2962,,False,True,0,False
+59,Fuel Economy & Use-Phase Emissions,,2277,,,Medium,2022-01-27T10:24:19+01:00,False,,1,2962,,False,True,0,False
+60,Employees Safety at Work,,2274,,,Medium,2022-01-27T10:23:30+01:00,False,,1,2962,,False,True,0,False
+61,Employees Well Being at Work,,2274,,,Medium,2022-01-27T10:23:30+01:00,False,,1,2962,,False,True,0,False
+62,Labour Practices,Labour Practices,2274,1.0,,Medium,2022-12-13T08:36:33+01:00,False,,1,8355,,False,True,1,False
+63,Defective Vehicles,,2271,1.0,,Medium,2022-01-27T13:11:39+01:00,False,,1,2962,,False,True,0,False
+64,Safety Assistance,,2271,,,Medium,2022-01-27T10:21:37+01:00,False,,1,2962,,False,True,0,False
+65,Lifecycle Emissions Balance,,2277,,,Medium,2022-01-27T10:25:49+01:00,False,,1,2962,,False,True,0,False
+66,Management of the Legal & Regulatory Environment,,2284,,,Medium,2022-01-27T10:26:07+01:00,False,,1,2962,,False,True,0,False
+67,Emergency Preparedness,,2285,,,Medium,2022-01-27T10:20:16+01:00,False,,1,2962,,False,True,0,False
+68,Workforce Health & Safety,Employee Safety,2275,1.0,,Medium,2021-11-29T11:11:17+01:00,False,,1,8355,,False,True,1,False
+69,Sourcing & Environmental Impacts of Feedstock Production,,2279,1.0,,Medium,2022-01-27T13:16:02+01:00,False,,1,2962,,False,True,0,False
