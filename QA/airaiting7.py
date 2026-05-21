@@ -15,11 +15,10 @@ import warnings
 # Load spaCy model
 nlp = spacy.load("en_core_web_sm")
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
-from huggingface_hub import login
+# HF_TOKEN must be set in the environment to access gated models (e.g. export HF_TOKEN=hf_...)
+# from huggingface_hub import login; login(os.environ['HF_TOKEN'])
 
 start_time = time.time()
-
-login(os.environ['HF_TOKEN'])
 
 
 def read_questions_from_file(filename):

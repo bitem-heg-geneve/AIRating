@@ -10,11 +10,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from itertools import zip_longest
 import warnings
-import os
-from huggingface_hub import login
-
-
-login(os.environ['HF_TOKEN'])
+# HF_TOKEN must be set in the environment to access gated models (e.g. export HF_TOKEN=hf_...)
+# from huggingface_hub import login; login(os.environ['HF_TOKEN'])
 
 
 # Load spaCy model
