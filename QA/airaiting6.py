@@ -10,11 +10,11 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from itertools import zip_longest
 import warnings
+import os
 from huggingface_hub import login
 
 
-access_token = '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'
-login(access_token)
+login(os.environ['HF_TOKEN'])
 
 
 # Load spaCy model

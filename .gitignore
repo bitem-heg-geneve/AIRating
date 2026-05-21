@@ -1,0 +1,17 @@
+# Vim swap files
+*.swp
+*.swo
+*.swn
+.*.swp
+.*.swo
+.*.swn
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Environment / secrets
+.env

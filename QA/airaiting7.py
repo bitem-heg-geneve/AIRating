@@ -19,13 +19,7 @@ from huggingface_hub import login
 
 start_time = time.time()
 
-# Use your Hugging Face access token
-access_token = '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'
-login(access_token)
-
-# Set your Hugging Face API token
-#os.environ["HF_HOME"] = "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"
-
+login(os.environ['HF_TOKEN'])
 
 
 def read_questions_from_file(filename):
@@ -41,8 +35,6 @@ def write_questions_to_file(questions, filename):
 generated_questions = read_questions_from_file('generated_questions.txt')
 
 # Load pre-trained GPT-2 model and tokenizer
-# Set your Hugging Face API token
-#set_hf_token("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")
 model_name = "meta-llama/Meta-Llama-3-8B"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name)
